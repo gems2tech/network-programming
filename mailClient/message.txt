@@ -1,0 +1,5 @@
+Greetings!
+
+This E-mail is sent with Python!
+
+Best regards!
