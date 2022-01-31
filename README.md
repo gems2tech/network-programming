@@ -6,7 +6,7 @@ With the pen.testing programs you can DDOS a server in your private network or p
 The chat room application is a client server program on a terminal.
 <li> You run the server first then multiple clients on different terminal windows. 
 <li> When you run a client at the beginning you type in your chat alias and hit enter.
-<li>After you get a message back from the server you now can type in messages that get broadcasted.<li>If you type in the message quit() your client program will be terminated.<br>
+<li>After you get a message back from the server you now can type in messages that get broadcasted.<li>If you type in the message quit() your client program will be terminated.<br><br>
 You can even setup you own private chat room with your friends. All you have to do is open the port 30333 on your router and allow traffic trough port 30333 on your firewall settings. Now you friends can use your ip address to connect to your chat server. 
 
 ## License
